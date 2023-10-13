@@ -1,16 +1,13 @@
 # 极客时间专栏文章自动转换为PDF
 
 ## 项目说明
-
-因学习的习惯问题，喜欢在平板上用pdf阅读器来进行阅读，极客时间官方App并未提供pdf下载功能，逐个复制生成费时费力，因此迫切需要一个简易工具来自动化完成。在看到  [https://github.com/jjeejj/geektime2pdf](https://github.com/jjeejj/geektime2pdf)   这个项目后，觉得非常不错，但是原仓库长期未维护，引用的模块版本太低，所以在原基础上按自己代码习惯做了一些改进，非常感谢原作者的无私奉献，致敬！
+基于以下开源代码对极客时间企业版进行了适配，感谢相关作者的贡献！
+[https://github.com/jiankeluoluo/geektime2pdf](https://github.com/jiankeluoluo/geektime2pdf)
 
 ## 技术栈
 
 NodeJS + Python
 
-## Github仓库
-
-[https://github.com/jiankeluoluo/geektime2pdf](https://github.com/jiankeluoluo/geektime2pdf)
 
 ### 注意事项
 
