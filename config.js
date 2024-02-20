@@ -11,5 +11,5 @@ module.exports = {
     isdownloadVideo: true, // 是否下载音频
     isComment: false, // 是否导出评论
     commentCount: 0, // 评论导出数量，最大20个
-    cookie: '' /登录后从浏览器将cookie拷贝到此处
+    cookie: '' //登录后从浏览器将cookie拷贝到此处
 };
